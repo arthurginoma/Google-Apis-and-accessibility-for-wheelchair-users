@@ -21,15 +21,17 @@ This project had the main goal to explore GoogleMaps API Places | *Data Analytic
 
 ## Project Description
 
-Importante facts
+Importante facts about accessibility and public places
 
 ```
 
 ▫️ In Brazil, it is mandatory that all public and semi-public spaces offer accessibility for people with reduced accessibility.
 
-▫️ The law requires universal accessibility, therefore it is demanding that all spaces in the building be accessible.
+▫️ The law requires universal accessibility, therefore it is demanding that all spaces in the building be accessible, not only a part of it.
 
-▫️ This project had as its premise the understanding of accessibility rules provided for in the Brazilian standard NBR9050
+▫️ This project had as its premise the understanding of accessibility rules provided by the Brazilian standard NBR9050
+
+▫️ This project had as its premise the understanding of accessibility rules provided by the Brazilian standard NBR9050
 
 ```
 
