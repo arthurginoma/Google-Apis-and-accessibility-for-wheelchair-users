@@ -83,7 +83,7 @@ Importante facts
 
 ## Dataset
 
-▫️ [API gOOGLE pLACES | Developer Guide](https://developers.google.com/maps/documentation/places/web-service/search-text?hl=pt-br%22)
+▫️ [API Google Places | Developer Guide](https://developers.google.com/maps/documentation/places/web-service/search-text?hl=pt-br%22)
 
 ▫️ [Brazilian accessibility rules](https://www.caurn.gov.br/wp-content/uploads/2020/08/ABNT-NBR-9050-15-Acessibilidade-emenda-1_-03-08-2020.pdf)
 
