@@ -6,7 +6,7 @@ This project had the main goal to explore GoogleMaps API Places | *Data Analytic
 
 > ⏰ <i>Quick Preview?</i>
 >
-> 👉 [Click here to check my presentation](https://public.tableau.com/views/SoPauloparaTodos_01/Painel1?:language=pt-BR&:display_count=n&:origin=viz_share_link), iny Tableau 
+> 👉 [Click here to check my presentation](https://public.tableau.com/views/SoPauloparaTodos_01/Painel1?:language=pt-BR&:display_count=n&:origin=viz_share_link), in Tableau 
 
 <br>
 
