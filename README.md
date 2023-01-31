@@ -21,38 +21,17 @@ This project had the main goal to explore GoogleMaps API Places | *Data Analytic
 
 ## Project Description
 
-Let's refresh some important history facts about climate change.
+Importante facts
 
 ```
 
-▫️ In 1896, a seminal paper by Swedish scientist Svante Arrhenius first predicted that changes
-in atmospheric carbon dioxide levels could substantially alter the surface temperature through
-the greenhouse effect.
+▫️ In Brazil, it is mandatory that all public and semi-public spaces offer accessibility for people with reduced accessibility.
 
-▫️ In 1938, Guy Callendar connected carbon dioxide increases in Earth’s atmosphere to global
-warming.
+▫️ The law requires universal accessibility, therefore it is demanding that all spaces in the building be accessible.
 
-▫️ In 1956, Gilbert Plass formulated the Carbon Dioxide Theory of Climate Change.
-
-▫️ The planet's average surface temperature has risen about 1.18 degrees Celsius since the
-late 19th century, a change driven largely by increased carbon dioxide emissions into the
-atmosphere and other human activities.
-
-▫️ Most of the warming occurred in the past 40 years, with the seven most recent years being
-the warmest.
-
-▫️ The years 2016 and 2020 are tied for the warmest year on record. 
+▫️ This project had as its premise the understanding of accessibility rules provided for in the Brazilian standard NBR9050
 
 ```
-###### Source: [NASA](https://climate.nasa.gov/evidence/)
-
-<br>
-
-![](images/cover_meat_the_future.png)
-
-###### Beef image source: Shutterstock.
-
-<br>
 
 <a name="goals"></a>
 
@@ -60,13 +39,13 @@ the warmest.
 
 ```
 
-▫️ Research, collect and analyse data (API / web scraping)
+▫️ Research, collect and analyse data (API Google Places)
 
 ▫️ Apply the programming and statistical techniques
 
 ▫️ Create useful and easily-interpretable plots
 
-▫️ Communicate the analysis results clearly, accurately, and engagingly
+▫️ Communicate the analysis results clearly, accurately, and engagingly (Tableau)
 
 ```
 
@@ -77,17 +56,15 @@ the warmest.
 ## Deliverable files in this repository
 
 * Cleaned final dataset (./assets):
-   - `fesc.csv`
-   - `meat_veg.csv`
-   - `meat_veg_tonnes.csv`
-   - `wb_population.csv`
+   - `tabela_final_rest.csv`
+   - `tabela_final_tourist.csv`
+   - `tabela_final_merged.csv`
 
 * Data analysis in Jupyter Notebook:
-   - `project_02_ironhack_meat_the_future_api.ipynb`
-   - `project_02_ironhack_meat_the_future_data.ipynb`
+   - `API ANALISE.ipynb`
  
 * Formal presentation – Storytelling with data:
-   - done with `Tableau` [check it here](https://public.tableau.com/app/profile/altermann/viz/Ironhack_Bootcamp_Project_2_meat_the_future/meat_the_future)
+   - done with `Tableau` [check it here](https://public.tableau.com/views/SoPauloparaTodos_01/Painel1?:language=pt-BR&:display_count=n&:origin=viz_share_link)
 
 <br>
 
@@ -97,7 +74,7 @@ the warmest.
 
    - Python @ Jupyter Notebook
    - Pandas / Numpy
-   - API / web scraping
+   - API
    - Tableau
 
 <br>
@@ -106,19 +83,9 @@ the warmest.
 
 ## Dataset
 
-▫️ [Food and Agriculture Organization of the United Nations](http://www.fao.org)
+▫️ [API gOOGLE pLACES | Developer Guide](https://developers.google.com/maps/documentation/places/web-service/search-text?hl=pt-br%22)
 
-▫️ [The World Bank API](https://datahelpdesk.worldbank.org/)
+▫️ [Brazilian accessibility rules](https://www.caurn.gov.br/wp-content/uploads/2020/08/ABNT-NBR-9050-15-Acessibilidade-emenda-1_-03-08-2020.pdf)
 
-▫️ [WBGAPI](https://pypi.org/project/wbgapi/) – pythonic access to the World Bank's data API
 
-▫️ [Our World in Data](https://ourworldindata.org/)
-
-<br>
-
-<br>
-
-![](images/vegetables_the_future_github.png)
-
-###### Painting image [source](https://commons.wikimedia.org/wiki/File:Arcimboldo_Oto%C3%B1o.jpg)
 
