@@ -41,11 +41,12 @@ Importante facts about accessibility and public places
 
 ```
 
-▫️ Research, collect and analyse data (API Google Places)
+▫️ Understand and explore the API of GoogleMaps Places, having as parameters: 
+  - city of São Paulo, Brasil;
+  - wheelchair accessibility;
+  - tourist sights and restaurants;
 
-▫️ Apply the programming and statistical techniques
-
-▫️ Create useful and easily-interpretable plots
+▫️ Python as a data analysis language for creative insights
 
 ▫️ Communicate the analysis results clearly, accurately, and engagingly (Tableau)
 
